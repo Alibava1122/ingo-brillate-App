@@ -1,0 +1,2 @@
+NSCameraUsageDescription = "Para tomar foto o vídeo, este app requiere permiso para acceder a la cámara.";
+NSPhotoLibraryUsageDescription = "Para subir datos, este app requirer permiso para acceder a la galería de fotos.";

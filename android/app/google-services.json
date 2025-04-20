@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445780447373",
+    "project_id": "ingo-brillate-ins-app",
+    "storage_bucket": "ingo-brillate-ins-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445780447373:android:1abde7c09fafca52a852c4",
+        "android_client_info": {
+          "package_name": "com.mycompany.ingobrillateinstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB272Sx4qesLCHNKVaydnSpE3C9Lp_4F_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

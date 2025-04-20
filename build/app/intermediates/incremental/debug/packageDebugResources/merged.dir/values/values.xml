@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ingo-Brillate-Inst-App</string>
+    <string name="gcm_defaultSenderId" translatable="false">445780447373</string>
+    <string name="google_api_key" translatable="false">AIzaSyB272Sx4qesLCHNKVaydnSpE3C9Lp_4F_c</string>
+    <string name="google_app_id" translatable="false">1:445780447373:android:1abde7c09fafca52a852c4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB272Sx4qesLCHNKVaydnSpE3C9Lp_4F_c</string>
+    <string name="google_storage_bucket" translatable="false">ingo-brillate-ins-app.appspot.com</string>
+    <string name="project_id" translatable="false">ingo-brillate-ins-app</string>
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+    <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+</resources>

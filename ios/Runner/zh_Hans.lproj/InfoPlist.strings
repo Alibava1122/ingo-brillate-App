@@ -1,0 +1,2 @@
+NSCameraUsageDescription = "该app需要您的授权才能使用拍照或摄像功能";
+NSPhotoLibraryUsageDescription = "该app需要授权才能上传文件。";

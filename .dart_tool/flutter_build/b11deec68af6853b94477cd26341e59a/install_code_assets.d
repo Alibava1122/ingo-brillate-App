@@ -1,0 +1,1 @@
+ E:\\flutter\\ingo_brillate_inst_app\\.dart_tool\\flutter_build\\b11deec68af6853b94477cd26341e59a\\native_assets.json: 
